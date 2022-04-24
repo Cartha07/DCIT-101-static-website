@@ -1,5 +1,5 @@
 body {
-  background: #c850c0;
+background: linear-gradient(-135deg, #c850c0, #4158d0);
 }
 *{
   margin: 0;
@@ -108,7 +108,7 @@ footer{
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
+  /*flex-direction: column;*/
   text-align: center;
 }
 .footer-content h3{
