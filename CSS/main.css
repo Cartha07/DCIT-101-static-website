@@ -6,6 +6,20 @@ background: linear-gradient(-135deg, #c850c0, #4158d0);
   padding: 0;
 }
 
+.mainbox {
+    color: inherit;
+    background-color: inherit;
+    position: relative;
+    padding: 0px;
+    height: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 7%;
+    margin-right: 7%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px magenta;
+}
+
 .main{
   width: 100%;
 }
